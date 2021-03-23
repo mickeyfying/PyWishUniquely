@@ -32,7 +32,7 @@ with this CODE we are going to wish someone Happy BirthDay in an Interesting Pyt
 
 * Clone this repo and install the requirements
     ```bash
-    git clone https://github.com/MickeyCoding59 && cd PyBirthdayWish && pip install -r requirements.txt
+    git clone https://github.com/MickeyCoding59/PyWishUniquely.git && cd PyBirthdayWish && pip install -r requirements.txt
     ```
 * Edit the ``arts/art.py`` file and add your texts and colors using color codes.
 
